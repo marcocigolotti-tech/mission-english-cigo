@@ -1,0 +1,10 @@
+MISSION ENGLISH — VERSIONE AUTONOMA
+
+1. Crea un NUOVO repository pubblico su GitHub, ad esempio mission-english-cigo.
+2. Estrai questo ZIP e carica il CONTENUTO della cartella (index.html, immagini e cartelle) nella radice del nuovo repository.
+3. Vai in Settings > Pages, scegli Deploy from a branch, main e / (root).
+4. Apri l’indirizzo GitHub Pages del nuovo repository.
+
+NON caricare questi file nel repository missione-puccini-open-day: deve rimanere congelato.
+La sintesi vocale inglese dipende dalle voci installate nel browser/dispositivo.
+Crediti: Prof. Marco Cigolotti — CIGO STUDIO · Creato con il supporto di AI
